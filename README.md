@@ -1,6 +1,6 @@
 ### Hi there, I'm Nguyên [codeSTACKr][website] 👋
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/QuangNguyen1607/Github/master/Icon/facebook.svg?token=ANJJ6JDY6BI3ZVCP7OE4R6LA4HJ4Y" />][website]
+[<img align="left" alt="" width="22px" style="color:#1877F2" src="https://raw.githubusercontent.com/QuangNguyen1607/Github/master/Icon/facebook.svg?token=ANJJ6JDY6BI3ZVCP7OE4R6LA4HJ4Y" />][website]
 
 <br />
 
