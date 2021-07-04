@@ -21,7 +21,6 @@ Hi, I'm a Front End Developer!!
 
 <br />
 <br />
----
 
 [website]: https://github.com/QuangNguyen1607
 [webdevplaylist]: https://github.com/QuangNguyen1607
