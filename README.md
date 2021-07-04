@@ -1,8 +1,7 @@
 ### Hi there, I'm [Nguyên][website] 👋
-
-[<img align="left" alt="" width="22px" style="color:#1877F2" src="https://raw.githubusercontent.com/QuangNguyen1607/Github/master/Icon/facebook.svg?token=ANJJ6JDY6BI3ZVCP7OE4R6LA4HJ4Y" />][website]
-
-<br />
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
 
 Hi, I'm a Front End Developer!!
 
